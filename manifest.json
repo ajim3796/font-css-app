@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "font-css-app",
     "author": "ajim",
-    "description": "chrome extension for customize font CSS.",
+    "description": "MS Pゴシックやメイリオ、游ゴシックをBIZ UDゴシックに置き換える拡張機能",
     "version": "1.0.0",
     "content_scripts": [
         {
@@ -10,8 +10,7 @@
                 "style.css"
             ],
             "matches": [
-                "http://*/*",
-                "https://*/*"
+                "<all_urls>"
             ]
         }
     ]
