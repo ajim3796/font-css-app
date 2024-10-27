@@ -2,658 +2,658 @@
 @font-face {
     font-family: 'メイリオ';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'メイリオ';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* Meiryo */
 @font-face {
     font-family: 'Meiryo';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Meiryo';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* 游ゴシック */
 @font-face {
     font-family: '游ゴシック';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: '游ゴシック';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* Yu Gothic */
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Yu Gothic';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* ＭＳ Ｐゴシック */
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'ＭＳ Ｐゴシック';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* MS PGothic */
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'MS PGothic';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* ＭＳ ゴシック */
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'ＭＳ ゴシック';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* MS Gothic */
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'MS Gothic';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* cwTeXHei */
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'cwTeXHei';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* Microsoft JhengHei */
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Microsoft JhengHei';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* Microsoft YaHei */
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Microsoft YaHei';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
 
 /* Malgun Gothic */
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 100;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Thin"), local('NotoSansCJKjp-Thin');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 200;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-ExtraLight"), local('NotoSansCJKjp-Light');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 300;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Light"), local('NotoSansCJKjp-DemiLight');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 400;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Regular"), local('NotoSansCJKjp-Regular');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 500;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-Medium"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 600;
-    src: local('BIZ-UDGothicR');
+    src: local("NotoSansJP-SemiBold"), local('NotoSansCJKjp-Medium');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 700;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Bold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 800;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-ExtraBold"), local('NotoSansCJKjp-Bold');
 }
 
 @font-face {
     font-family: 'Malgun Gothic';
     font-weight: 900;
-    src: local('BIZ-UDGothicB');
+    src: local("NotoSansJP-Black"), local('NotoSansCJKjp-Black');
 }
