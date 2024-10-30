@@ -3,7 +3,7 @@
     "name": "BIZ UDゴシックが見やすい",
     "author": "ajim",
     "description": "MS Pゴシックやメイリオ、游ゴシックをBIZ UDゴシックに置き換える拡張機能",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icons": {
         "128": "icon-128.png"
     },
